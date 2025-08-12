@@ -70,7 +70,7 @@
 |`/`    |AltGr + .         |
 |`./`   |AltGr + ш         |
 |`../`  |AltGr + з         |
-|…      |AltGr + Shift + . |
+|`…`    |AltGr + Shift + . |
 |`неразрывный пробел` |AltGr + space |
 
 #### Английская раскладка
@@ -87,7 +87,7 @@
 |`»`    |AltGr + .         |
 |`./`   |AltGr + i         |
 |`../`  |AltGr + p         |
-|…      |AltGr + Shift + / |
+|`…`    |AltGr + Shift + / |
 |`non-breaking space` |AltGr + space |
 
 ## Обратная связь
