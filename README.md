@@ -87,7 +87,7 @@
 |`»`    |AltGr + .         |
 |`./`   |AltGr + i         |
 |`../`  |AltGr + p         |
-|…      |AltGr + Shift + . |
+|…      |AltGr + Shift + / |
 |`non-breaking space` |AltGr + space |
 
 ## Обратная связь
